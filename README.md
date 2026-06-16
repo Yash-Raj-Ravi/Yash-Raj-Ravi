@@ -2,13 +2,13 @@
 
 ### AI & Data Engineering Student @ IIIT Kota
 
-I am a B.Tech student specializing in Artificial Intelligence and Data Engineering at IIIT Kota. I enjoy solving Data Structures & Algorithms problems, building Machine Learning applications, and exploring Generative AI technologies.
+I'm a B.Tech student specializing in Artificial Intelligence & Data Engineering at IIIT Kota. My current focus is building production-ready AI applications using LLMs, Retrieval-Augmented Generation (RAG), FastAPI, and modern NLP techniques while strengthening my Data Structures & Algorithms foundations.
 
 * 🎓 B.Tech AI & Data Engineering, IIIT Kota (2024–2028)
 * 📚 NSP Scholar
-* 💻 DSA Enthusiast
-* 🤖 Interested in Machine Learning, Deep Learning, NLP, and Generative AI
-* 🚀 Building real-world AI-powered applications
+* 💻 Solving DSA problems consistently (120+ Striver A2Z Problems Solved)
+* 🤖 Exploring LLMs, RAG Systems, NLP, and Generative AI
+* 🚀 Building real-world AI products with FastAPI and LangChain
 
 ---
 
@@ -29,14 +29,65 @@ I am a B.Tech student specializing in Artificial Intelligence and Data Engineeri
 * Deep Learning
 * Natural Language Processing (NLP)
 * TensorFlow
-* OpenAI API
+* Scikit-Learn
 * LangChain
+* OpenAI API
+* HuggingFace
 
-### Development Tools
+### Development & Deployment
 
 * FastAPI
 * Git
 * GitHub
+* Streamlit
+* FAISS
+* ChromaDB
+
+---
+
+## 🚧 Currently Building
+
+### 📚 Multi-Document Research Assistant (RAG) | In Progress
+
+A production-ready Retrieval-Augmented Generation system that enables users to interact with multiple documents through natural language.
+
+#### Planned Features
+
+* Multi-PDF upload and management
+* Semantic document search
+* Source-cited answers
+* Cross-document comparison
+* Conversational memory
+* FastAPI backend
+* Streamlit frontend
+* Hugging Face deployment
+
+#### Tech Stack
+
+LangChain • FastAPI • FAISS • HuggingFace Embeddings • Streamlit
+
+**Status:** Active Development
+
+---
+
+### 🎯 AI Interview Preparation Platform | Planned
+
+An AI-powered interview preparation platform that helps students prepare for internships and placements.
+
+#### Planned Features
+
+* Resume upload
+* Job Description analysis
+* Interview question generation
+* AI feedback system
+* Skill gap identification
+* Personalized improvement suggestions
+
+#### Tech Stack
+
+LLMs • LangChain • FastAPI • NLP • RAG
+
+**Status:** Planning Phase
 
 ---
 
@@ -44,7 +95,7 @@ I am a B.Tech student specializing in Artificial Intelligence and Data Engineeri
 
 ### Satellite Image Classification using ResNet50
 
-* Built a deep learning model using transfer learning on the EuroSAT dataset.
+* Built a transfer learning pipeline using ResNet50 on the EuroSAT dataset.
 * Applied data augmentation and fine-tuning techniques.
 * Achieved 98.02% validation accuracy.
 
@@ -61,16 +112,17 @@ I am a B.Tech student specializing in Artificial Intelligence and Data Engineeri
 
 ### LeetCode Solutions
 
-* Repository containing solutions to Data Structures and Algorithms problems.
-* Focused on improving problem-solving and coding interview skills.
+* Repository containing Data Structures & Algorithms solutions.
+* Focused on interview preparation and problem-solving skills.
 
 ---
 
 ## 📊 Coding Profiles
 
 * LeetCode: https://leetcode.com/u/YashRajRavi/
-* Codechef: https://www.codechef.com/users/yashrajravi
-* Striver's A2Z DSA Sheet (120+ Problems Solved): https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z/
+* CodeChef: https://www.codechef.com/users/yashrajravi
+* Striver A2Z DSA Sheet: 130+ Problems Solved
+
 
 ---
 
@@ -83,12 +135,13 @@ I am a B.Tech student specializing in Artificial Intelligence and Data Engineeri
 
 ### Current Focus
 
-* Machine Learning & Deep Learning
-* Generative AI Applications
 * Retrieval-Augmented Generation (RAG)
+* LLM Applications
+* FastAPI
+* Machine Learning
+* Deep Learning
 * Data Structures & Algorithms
-* Backend Development with FastAPI
 
 ---
 
-*"Consistently learning, building, and improving one project at a time."*
+*"Learning is useful. Building is what proves it."*
