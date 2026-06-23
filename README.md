@@ -6,9 +6,9 @@ I'm a B.Tech student specializing in Artificial Intelligence & Data Engineering 
 
 * 🎓 B.Tech AI & Data Engineering, IIIT Kota (2024–2028)
 * 📚 NSP Scholar
-* 💻 Solving DSA problems consistently (120+ Striver A2Z Problems Solved)
+* 💻 Solving DSA problems consistently (150+ Striver A2Z Problems Solved)
 * 🤖 Exploring LLMs, RAG Systems, NLP, and Generative AI
-* 🚀 Building real-world AI products with FastAPI and LangChain
+* 🚀 Building real-world AI applications using FastAPI, LangChain, and LLMs
 
 ---
 
@@ -32,7 +32,7 @@ I'm a B.Tech student specializing in Artificial Intelligence & Data Engineering 
 * Scikit-Learn
 * LangChain
 * OpenAI API
-* HuggingFace
+* Hugging Face
 
 ### Development & Deployment
 
@@ -42,56 +42,43 @@ I'm a B.Tech student specializing in Artificial Intelligence & Data Engineering 
 * Streamlit
 * FAISS
 * ChromaDB
+* Docker
 
 ---
 
 ## 🚧 Currently Building
 
-### 📚 Multi-Document Research Assistant (RAG) | In Progress
+### 🏭 Industrial Knowledge Intelligence Platform | In Progress
 
-A production-ready Retrieval-Augmented Generation system that enables users to interact with multiple documents through natural language.
+An AI-powered platform that transforms industrial documents into actionable knowledge using document intelligence, Retrieval-Augmented Generation (RAG), and knowledge graphs.
 
 #### Planned Features
 
-* Multi-PDF upload and management
-* Semantic document search
-* Source-cited answers
-* Cross-document comparison
-* Conversational memory
+* Multi-document ingestion
+* PDF and scanned document processing
+* Entity extraction from industrial records
+* Semantic search over documents
+* Source-cited question answering
+* Knowledge graph generation
 * FastAPI backend
 * Streamlit frontend
-* Hugging Face deployment
 
 #### Tech Stack
 
-LangChain • FastAPI • FAISS • HuggingFace Embeddings • Streamlit
+LangChain • FastAPI • ChromaDB • PyMuPDF • Streamlit • LLMs • Knowledge Graphs
 
 **Status:** Active Development
 
 ---
 
-### 🎯 AI Interview Preparation Platform | Planned
-
-An AI-powered interview preparation platform that helps students prepare for internships and placements.
-
-#### Planned Features
-
-* Resume upload
-* Job Description analysis
-* Interview question generation
-* AI feedback system
-* Skill gap identification
-* Personalized improvement suggestions
-
-#### Tech Stack
-
-LLMs • LangChain • FastAPI • NLP • RAG
-
-**Status:** Planning Phase
-
----
-
 ## 📌 Featured Projects
+
+### Industrial Knowledge Intelligence Platform
+
+* Building an AI-powered industrial document intelligence system.
+* Implements RAG for question answering over technical documents.
+* Generates knowledge relationships between equipment, reports, and procedures.
+* Designed for maintenance, operations, and engineering knowledge retrieval.
 
 ### Satellite Image Classification using ResNet50
 
@@ -102,7 +89,7 @@ LLMs • LangChain • FastAPI • NLP • RAG
 ### YouTube RAG Chatbot
 
 * Developed a Retrieval-Augmented Generation chatbot for YouTube videos.
-* Utilized LangChain, OpenAI embeddings, and vector databases.
+* Utilized LangChain, embeddings, and vector databases.
 * Enabled question answering directly from video transcripts.
 
 ### AI Voice Detection
@@ -121,8 +108,7 @@ LLMs • LangChain • FastAPI • NLP • RAG
 
 * LeetCode: https://leetcode.com/u/YashRajRavi/
 * CodeChef: https://www.codechef.com/users/yashrajravi
-* Striver A2Z DSA Sheet: 130+ Problems Solved
-
+* Striver A2Z DSA Sheet: 150+ Problems Solved
 
 ---
 
@@ -138,6 +124,7 @@ LLMs • LangChain • FastAPI • NLP • RAG
 * Retrieval-Augmented Generation (RAG)
 * LLM Applications
 * FastAPI
+* Knowledge Graphs
 * Machine Learning
 * Deep Learning
 * Data Structures & Algorithms
