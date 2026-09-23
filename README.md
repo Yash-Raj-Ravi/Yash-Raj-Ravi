@@ -6,7 +6,7 @@ I'm a B.Tech student specializing in Artificial Intelligence & Data Engineering 
 
 * 🎓 B.Tech AI & Data Engineering, IIIT Kota (2024–2028)
 * 📚 NSP Scholar
-* 💻 Solving DSA problems consistently (150+ Striver A2Z Problems Solved)
+* 💻 Solving DSA problems consistently (300+ Striver A2Z Problems Solved)
 * 🤖 Exploring LLMs, RAG Systems, NLP, and Generative AI
 * 🚀 Building real-world AI applications using FastAPI, LangChain, and LLMs
 
@@ -108,7 +108,7 @@ LangChain • FastAPI • ChromaDB • PyMuPDF • Streamlit • LLMs • Knowle
 
 * LeetCode: https://leetcode.com/u/YashRajRavi/
 * CodeChef: https://www.codechef.com/users/yashrajravi
-* Striver A2Z DSA Sheet: 150+ Problems Solved
+* Codolio: https://codolio.com/profile/ehPzcOKlg
 
 ---
 
