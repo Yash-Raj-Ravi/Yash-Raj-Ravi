@@ -2,11 +2,11 @@
 
 ### 🚀 AI & Data Engineering Undergraduate @ IIIT Kota | RAG & LLM Systems | Competitive Programmer
 
+[![Codolio](https://img.shields.io/badge/Codolio_Portfolio-6366F1?style=for-the-badge&logo=codio&logoColor=white)](https://codolio.com/profile/ehPzcOKlg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-raj-ravi-048997323/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yrr6735@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/YashRajRavi/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/yashrajravi)
-[![Codolio](https://img.shields.io/badge/Codolio-6366F1?style=for-the-badge&logo=codio&logoColor=white)](https://codolio.com/profile/ehPzcOKlg)
 
 ---
 
@@ -19,21 +19,6 @@ I'm a B.Tech undergraduate specializing in **Artificial Intelligence & Data Engi
 - 💻 **Algorithmic Problem Solving:** Solved **300+ DSA problems** (Striver A2Z Sheet) in C++, focusing on Dynamic Programming, Graphs, Trees, and Two-Pointer optimizations
 - 🤖 **AI Engineering:** Designing end-to-end LLM applications, multi-document RAG pipelines, Knowledge Graphs, and custom NLP/Audio/Vision models
 - 🚀 **Backend & MLOps:** Deploying low-latency AI microservices using **FastAPI**, **Docker**, **Streamlit**, **ChromaDB**, and **FAISS**
-
-```python
-class YashRajRavi:
-    def __init__(self):
-        self.name = "Yash Raj Ravi"
-        self.role = "AI & Data Engineering Undergraduate"
-        self.institute = "IIIT Kota (Batch of 2028)"
-        self.honors = ["NSP Scholar", "300+ Striver A2Z DSA Problems Solved"]
-        self.languages = ["C++", "Python", "SQL", "JavaScript", "HTML/CSS"]
-        self.ai_stack = ["LangChain", "RAG", "Knowledge Graphs", "TensorFlow", "Scikit-Learn", "Hugging Face"]
-        self.infra = ["FastAPI", "Docker", "ChromaDB", "FAISS", "Streamlit", "Git"]
-
-    def current_mission(self) -> str:
-        return "Transforming complex unstructured data into intelligent, source-cited AI systems."
-```
 
 ---
 
@@ -57,7 +42,7 @@ graph LR
 | **🤖 Generative AI & RAG Systems** | Multi-document ingestion, chunking strategies, semantic vector retrieval, source-cited Q&A, and entity-relationship extraction. | `LangChain` • `OpenAI API` • `Hugging Face` • `ChromaDB` • `FAISS` • `PyMuPDF` |
 | **🔬 Deep Learning & Computer Vision** | Transfer learning pipelines, convolutional architectures, audio feature classification, and custom NLP workflows. | `TensorFlow` • `ResNet50` • `Scikit-Learn` • `NLP` • `Audio Signal Processing` |
 | **⚙️ Backend & AI Deployment** | RESTful API design for ML inference, containerization, interactive data dashboards, and production web integrations. | `FastAPI` • `Docker` • `Streamlit` • `SQL` • `Git & GitHub` |
-| **⚡ Data Structures & Algorithms** | Competitive programming and algorithmic optimization across graphs, trees, dynamic programming, and bit manipulation. | `C++ STL` • `LeetCode` • `CodeChef` • `Striver A2Z` |
+| **⚡ Data Structures & Algorithms** | Competitive programming and algorithmic optimization across graphs, trees, dynamic programming, and bit manipulation. | `C++ STL` • `Codolio` • `LeetCode` • `CodeChef` • `Striver A2Z` |
 
 ---
 
@@ -104,13 +89,15 @@ graph LR
 
 ---
 
-## 📊 Coding Profiles & Activity
+## 📊 Competitive Programming & Codolio Portfolio
 
-- 🏆 **LeetCode:** [leetcode.com/u/YashRajRavi](https://leetcode.com/u/YashRajRavi/) *(300+ DSA Problems Solved across Striver A2Z & LeetCode)*
-- ⚔️ **CodeChef:** [codechef.com/users/yashrajravi](https://www.codechef.com/users/yashrajravi)
-- 📈 **Codolio (All-in-One Coding Portfolio):** [codolio.com/profile/ehPzcOKlg](https://codolio.com/profile/ehPzcOKlg)
+[![View My Codolio Portfolio](https://img.shields.io/badge/🚀_View_Complete_Coding_Portfolio_on_Codolio-6366F1?style=for-the-badge&logo=codio&logoColor=white)](https://codolio.com/profile/ehPzcOKlg)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YashRajRavi?theme=dark&font=Fira%20Code&ext=heatmap)
+| Platform | Handle / Profile Link | Highlights & Focus |
+| :--- | :--- | :--- |
+| **🌐 Codolio (All-in-One Tracker)** | [**codolio.com/profile/ehPzcOKlg**](https://codolio.com/profile/ehPzcOKlg) | Unified dashboard tracking all DSA problems, contest ratings, heatmaps, and GitHub activity |
+| **🏆 LeetCode** | [**leetcode.com/u/YashRajRavi**](https://leetcode.com/u/YashRajRavi/) | 300+ DSA Problems Solved (Striver A2Z Sheet, Dynamic Programming, Trees, Graphs) |
+| **⚔️ CodeChef** | [**codechef.com/users/yashrajravi**](https://www.codechef.com/users/yashrajravi) | Competitive Programming & Rated Algorithmic Contests in C++ |
 
 ---
 
@@ -127,6 +114,7 @@ graph LR
 
 - 📧 **Email:** [yrr6735@gmail.com](mailto:yrr6735@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/yash-raj-ravi-048997323](https://www.linkedin.com/in/yash-raj-ravi-048997323/)
+- 📊 **Codolio:** [codolio.com/profile/ehPzcOKlg](https://codolio.com/profile/ehPzcOKlg)
 
 ---
 
