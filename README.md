@@ -32,7 +32,7 @@
 
 `LangChain` • `FastAPI` • `ChromaDB` • `Ollama` • `Tesseract OCR` • `PyMuPDF` • `Sarvam AI`
 
-[💻 Code](https://github.com/Yash-Raj-Ravi/REPLACE-WITH-REPO-NAME) • [🎥 Demo](https://REPLACE-WITH-DEMO-LINK)
+[💻 Code](https://github.com/Yash-Raj-Ravi/land_knowledge_intelligence) • [🎥 Demo](https://drive.google.com/file/d/1yp3JtilEomwulSM0J4f91EwoqxCZYbVU/view)
 
 <!-- Add a screenshot or GIF: ![Land Acquisition Demo](assets/land-rag-demo.gif) -->
 
@@ -62,7 +62,7 @@
 
 `TensorFlow` • `Audio DSP` • `MFCC` • `Python`
 
-[💻 Code](https://github.com/Yash-Raj-Ravi/REPLACE-WITH-REPO-NAME)
+[💻 Code](https://github.com/Yash-Raj-Ravi/AI_Voice_Detection)
 
 ---
 
@@ -74,7 +74,7 @@
 
 `TensorFlow` • `Keras` • `ResNet-50` • `Computer Vision`
 
-[💻 Code](https://github.com/Yash-Raj-Ravi/REPLACE-WITH-REPO-NAME)
+[💻 Code](https://github.com/Yash-Raj-Ravi/Satellite-Image-Classification-ResNet50)
 
 ---
 
@@ -82,7 +82,7 @@
 - Optimized C++ solutions covering DP, Graphs, Trees, Two-Pointers, and Bit Manipulation.
 - Built through LeetCode, CodeChef, Codeforces, and the Striver A2Z Sheet.
 
-[💻 Code](https://github.com/Yash-Raj-Ravi/REPLACE-WITH-REPO-NAME)
+[💻 Code](https://github.com/Yash-Raj-Ravi/leetcode-solutions)
 
 ---
 
