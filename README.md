@@ -14,11 +14,24 @@
 
 I'm a B.Tech undergraduate specializing in **Artificial Intelligence & Data Engineering** at **IIIT Kota** (2024–2028). My engineering focus lies at the intersection of **Generative AI**, **Retrieval-Augmented Generation (RAG)**, and **scalable backend architecture**, paired with a strong foundation in **Data Structures & Algorithms**.
 
-- 🎓 **Education:** B.Tech in Artificial Intelligence & Data Engineering, **IIIT Kota** (2024–2028)
-- 🏅 **Recognition:** **NSP Scholar** (National Scholarship Portal Awardee)
-- 💻 **Algorithmic Problem Solving:** Solved **300+ DSA problems** (Striver A2Z Sheet) in C++, focusing on Dynamic Programming, Graphs, Trees, and Two-Pointer optimizations
-- 🤖 **AI Engineering:** Designing end-to-end LLM applications, multi-document RAG pipelines, Knowledge Graphs, and custom NLP/Audio/Vision models
-- 🚀 **Backend & MLOps:** Deploying low-latency AI microservices using **FastAPI**, **Docker**, **Streamlit**, **ChromaDB**, and **FAISS**
+```python
+class YashRajRavi:
+    def __init__(self):
+        self.name = "Yash Raj Ravi"
+        self.education = "B.Tech in AI & Data Engineering @ IIIT Kota (2024–2028)"
+        self.recognition = "NSP Scholar (National Scholarship Portal Awardee)"
+        self.dsa_milestone = "300+ Striver A2Z & LeetCode Problems Solved (C++)"
+        self.core_focus = [
+            "Retrieval-Augmented Generation (RAG) & Knowledge Graphs",
+            "End-to-End LLM Applications & Modern NLP Pipelines",
+            "Deep Learning, Computer Vision & Audio Signal Processing",
+            "Scalable AI Microservices with FastAPI & Docker"
+        ]
+        self.codolio = "[https://codolio.com/profile/ehPzcOKlg](https://codolio.com/profile/ehPzcOKlg)"
+
+    def current_mission(self) -> str:
+        return "Transforming complex unstructured data into intelligent, source-cited AI systems."
+```
 
 ---
 
